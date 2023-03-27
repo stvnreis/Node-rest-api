@@ -1,1 +1,1 @@
-## npm install nodemon@2.0.15 -D
+## Projeto do curso "Node.js: API Rest com Express e MongoDB" da Alura
